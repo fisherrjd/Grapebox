@@ -1,0 +1,7 @@
+id = "grapebox"
+name = "Grapebox"
+version = "0.0.1"
+schema_version = 1
+authors = ["Jade Fisher"]
+description = "GruvBox Dark adopted to be Purple"
+repository = "https://github.com/fisherrjd/Grapebox"
