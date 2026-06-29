@@ -1,7 +1,8 @@
-id = "grapebox"
+id = "grapebox-theme"
 name = "Grapebox"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Jade Fisher"]
-description = "GruvBox Dark adopted to be Purple"
-repository = "https://github.com/fisherrjd/Grapebox"
+description = "Gruvbox, but make it purple"
+repository = "https://github.com/yourusername/grapebox"
+themes = ["themes/grapebox.json"]
